@@ -22,3 +22,4 @@ esac
 done
 
 echo $DATE
+echo "i fucked your mother"
