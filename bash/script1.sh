@@ -22,4 +22,4 @@ esac
 done
 
 echo $DATE
-echo "i fucked your mother really hard in the mouth"
+echo "i fucked your mother really hard in the mouth xd"
